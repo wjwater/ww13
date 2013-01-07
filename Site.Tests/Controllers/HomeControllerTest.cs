@@ -50,5 +50,11 @@ namespace Site.Tests.Controllers
             // Assert
             Assert.IsNotNull(result);
         }
+
+        [TestMethod]
+        public void DummyTest()
+        {
+            Assert.AreEqual(1, 1);
+        }
     }
 }
