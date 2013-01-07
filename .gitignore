@@ -79,7 +79,7 @@ publish
 *.Publish.xml
 
 # NuGet Packages Directory
-packages
+# packages --> commented out, these packages should be part of the repo.
 
 # Windows Azure Build Output
 csx
